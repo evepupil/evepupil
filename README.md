@@ -1,6 +1,4 @@
-# Hi there 👋 I'm [YeTong]
 
-## 📊 GitHub Stats
 
 <!-- GitHub 统计卡片 (浅色主题) -->
 <p align="center">
