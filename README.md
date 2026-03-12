@@ -1,15 +1,10 @@
+# Hi, I'm evepupil 👋
 
+> 🎯 **Independent Developer | AI Tools Enthusiast | Lifelong Learner**
 
-<!-- GitHub 统计卡片 (浅色主题) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evepupil&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="48%"/>
-  
-  <!-- 常用语言统计 (浅色主题) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evepupil&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="42%"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=evepupil&theme=radical)
 
-<!-- 动态活动图 (浅色主题) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=evepupil&theme=minimal&bg_color=ffffff&hide_border=true" alt="GitHub Activity Graph" width="90%"/>
-</p>
-
+### 📊 Engineering Stats
+| Coding Activity | Language Portfolio |
+| :--- | :--- |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=evepupil&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evepupil&layout=compact&theme=radical) |
