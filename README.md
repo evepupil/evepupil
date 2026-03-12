@@ -1,8 +1,13 @@
 # Hi, I'm evepupil 👋
 
 > 🎯 **Independent Developer | AI Tools Enthusiast | Lifelong Learner**
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=evepupil&theme=radical)
+<table border="0">
+  <tr>
+    <td>
+<img src=https://github-readme-streak-stats.herokuapp.com/?user=evepupil&theme=radical /></td>
+    </td>
+</tr>
+</table>
 
 ### 📊 Engineering Stats
 
