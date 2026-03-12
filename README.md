@@ -26,8 +26,7 @@
 
 #### 🤖 AI & Development Agents (The Real Brains)
 ![Claude](https://img.shields.io/badge/Logic-Claude_Code-755139?style=for-the-badge&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Autocomplete-OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Editor-Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=5FB6AD)
+![Codex](https://img.shields.io/badge/Logic-OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Autocomplete-Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=5FB6AD)
 
----
 ---
