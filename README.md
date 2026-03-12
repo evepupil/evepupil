@@ -20,12 +20,14 @@
 ### 🐍 My Contribution Snake
 ![snake gif](https://raw.githubusercontent.com/evepupil/evepupil/output/github-contribution-grid-snake.svg)
 
-### 🛠 Tech Stack
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+### 🛠 My "AI-Managed" Tech Stack
+> **"90% Prompted by Claude, 9% Tabbed by Copilot, 1% Fixed by Me."** 
+[![My Skills](https://skillicons.dev/icons?i=nextjs,vercel,ts,py,postgres,cloudflare,workers,serverless,flutter,dart,react,tailwind,docker,git,postman,sqlite)](https://skillicons.dev)
 
+#### 🤖 AI & Development Agents (The Real Brains)
+![Claude](https://img.shields.io/badge/Logic-Claude_Code-755139?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Autocomplete-OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Editor-Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=5FB6AD)
 
+---
 ---
