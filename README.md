@@ -21,8 +21,10 @@
     </td>
   </tr>
 </table>
+
 ### Token usage
 ![TokenBoard](https://tokenboard.chaosyn.com/api/public/yeton-buvkzder.svg)
+
 ### 🐍 My Contribution Snake
 ![snake gif](https://raw.githubusercontent.com/evepupil/evepupil/output/github-contribution-grid-snake.svg)
 
