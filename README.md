@@ -11,15 +11,19 @@
 
 ### 📊 Engineering Stats
 
+![GitHub profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evepupil&theme=github_dark)
+
 <table border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=evepupil&show_icons=true&theme=radical&rank_icon=github&count_private=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evepupil&layout=compact&theme=radical&hide=html,css" />
-    </td>
-  </tr>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=evepupil&theme=github_dark" alt="GitHub stats" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=evepupil&theme=github_dark" alt="Languages by repo" />
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ### Token usage
