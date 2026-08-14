@@ -1,44 +1,35 @@
-# Hi, I'm evepupil 👋
+# evepupil
 
-> 🎯 **Independent Developer | AI Tools Enthusiast | Lifelong Learner**
-<table border="0">
-  <tr>
-    <td>
-<img src=https://github-readme-streak-stats.herokuapp.com/?user=evepupil&theme=radical /></td>
-    </td>
-</tr>
-</table>
+Independent developer focused on turning AI-assisted development into a reliable engineering practice.
 
-### 📊 Engineering Stats
+## Focus
 
-![GitHub profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evepupil&theme=github_dark)
+My current work explores the tools, reusable foundations, and workflows that make AI coding more structured, repeatable, and easier to verify.
 
-<table border="0">
-  <tbody>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=evepupil&theme=github_dark" alt="GitHub stats" />
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=evepupil&theme=github_dark" alt="Languages by repo" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+## Selected Projects
 
-### Token usage
-![TokenBoard](https://tokenboard.chaosyn.com/api/public/yeton-buvkzder.svg)
+### [NextDevTpl](https://github.com/evepupil/NextDevTpl)
 
-### 🐍 My Contribution Snake
-![snake gif](https://raw.githubusercontent.com/evepupil/evepupil/output/github-contribution-grid-snake.svg)
+A composable, production-ready Next.js SaaS foundation that generates standalone applications around the modules, service adapters, and deployment target you choose.
 
-### 🛠 My "AI-Managed" Tech Stack
-> **"90% Prompted by Claude, 9% Tabbed by Copilot, 1% Fixed by Me."** 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,vercel,ts,py,postgres,cloudflare,workers,serverless,flutter,dart,react,tailwind,docker,git,postman,sqlite)](https://skillicons.dev)
+[Project website](https://nextdevtpl.chaosyn.com)
 
-#### 🤖 AI & Development Agents (The Real Brains)
-![Claude](https://img.shields.io/badge/Logic-Claude_Code-755139?style=for-the-badge&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Logic-OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Autocomplete-Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=5FB6AD)
+### [CloudMind](https://github.com/evepupil/CloudMind)
 
----
+An open-source, user-owned AI memory layer that runs in your Cloudflare account and exposes selective personal and project memory to AI clients through MCP.
+
+## GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evepupil&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evepupil&theme=github">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evepupil&theme=github" alt="GitHub activity for evepupil">
+</picture>
+
+## AI Usage
+
+![AI token usage](https://tokenboard.chaosyn.com/api/public/yeton-buvkzder.svg)
+
+## Elsewhere
+
+[Website](https://chaosyn.com) · [Blog](https://blog.chaosyn.com) · [Zhihu](https://www.zhihu.com/people/ye-tong-95-79)
