@@ -29,7 +29,7 @@ My work focuses on making AI development more structured, repeatable, and easier
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 ### [NextDevTpl](https://github.com/evepupil/NextDevTpl)
 
@@ -42,7 +42,9 @@ A composable, production-ready Next.js SaaS foundation that generates standalone
 [Project website](https://nextdevtpl.chaosyn.com)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td valign="top">
 
 ### [CloudMind](https://github.com/evepupil/CloudMind)
 
@@ -55,7 +57,7 @@ An open-source, user-owned AI memory layer that runs in your Cloudflare account 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td valign="top">
 
 ### [CCSM](https://github.com/evepupil/ccsm)
 
@@ -83,8 +85,8 @@ A Windows desktop app for managing local Claude Code and Codex sessions from one
 
 ## 🔗 Elsewhere
 
-[![Website](https://img.shields.io/badge/Website-chaosyn.com-72B9DE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chaosyn.com)
-[![Blog](https://img.shields.io/badge/Blog-blog.chaosyn.com-17324D?style=for-the-badge&logo=rss&logoColor=white)](https://blog.chaosyn.com)
-[![Zhihu](https://img.shields.io/badge/Zhihu-evepupil-72B9DE?style=for-the-badge&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/ye-tong-95-79)
+[![Website](https://img.shields.io/badge/Website-chaosyn.com-72B9DE?style=flat-square&logo=googlechrome&logoColor=white)](https://chaosyn.com)
+[![Blog](https://img.shields.io/badge/Blog-blog.chaosyn.com-17324D?style=flat-square&logo=rss&logoColor=white)](https://blog.chaosyn.com)
+[![Zhihu](https://img.shields.io/badge/Zhihu-evepupil-72B9DE?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/ye-tong-95-79)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:86C9E8,50:BFE6F8,100:EAF7FF&height=100&section=footer)
