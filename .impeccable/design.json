@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-01T07:39:33.433Z",
+  "title": "Design System: evepupil GitHub Profile",
+  "extensions": {
+    "colorMeta": {
+      "wave-mist": {
+        "role": "secondary",
+        "displayName": "Wave Mist"
+      },
+      "wave-light": {
+        "role": "secondary",
+        "displayName": "Wave Light"
+      },
+      "wave-sky": {
+        "role": "primary",
+        "displayName": "Clear Sky"
+      },
+      "badge-blue": {
+        "role": "primary",
+        "displayName": "Badge Blue"
+      },
+      "deep-blue-gray": {
+        "role": "neutral",
+        "displayName": "Deep Blue-Gray"
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Banner Name",
+        "purpose": "The public name in the waving hero only."
+      },
+      "title": {
+        "displayName": "Banner Subtitle",
+        "purpose": "The confirmed role line beneath the banner name."
+      }
+    }
+  },
+  "components": [],
+  "narrative": {
+    "northStar": "Airy Blue Developer Portfolio",
+    "overview": "The profile is a concise, evidence-led developer portfolio shaped for GitHub's README canvas. A pale-blue waving banner introduces evepupil at display scale, then the interface recedes so the About copy, representative projects, and current work can carry the story.\n\nThe visual world is light, open, and restrained: airy blues provide identity, dark blue-gray keeps the banner legible, and GitHub's native content surface handles the reading experience. The waving hero, chapter hierarchy, and emoji chapter markers are adapted from the user-pinned `epicsagas/epicsagas` reference.",
+    "keyCharacteristics": [
+      "One full-width light-blue waving banner before the content.",
+      "GitHub-native reading surfaces with no custom cards or chrome.",
+      "A one-column sequence of clearly marked chapters and projects.",
+      "Compact blue evidence badges and responsive media.",
+      "Generous separation without decorative containers."
+    ],
+    "rules": [
+      {
+        "name": "The Five-Color Rule",
+        "body": "Use the five recorded blue tokens for repository-controlled artwork and badges; let GitHub supply white and light content surfaces.",
+        "section": "colors"
+      },
+      {
+        "name": "The Platform Type Rule",
+        "body": "Use standard Markdown hierarchy for page content; only the banner sets explicit type sizes and weights.",
+        "section": "typography"
+      },
+      {
+        "name": "The Single-Column Rule",
+        "body": "Preserve one continuous reading path at every width; do not turn the project chapters into a grid.",
+        "section": "layout"
+      },
+      {
+        "name": "The Flat Evidence Rule",
+        "body": "Keep project descriptions, badges, and activity graphics on the page surface without decorative containers or custom shadows.",
+        "section": "elevation"
+      },
+      {
+        "name": "The Reference Marker Rule",
+        "body": "Retain one relevant emoji marker on each level-two chapter heading; do not extend emoji decoration into project titles or body copy.",
+        "section": "shapes"
+      }
+    ],
+    "dos": [
+      "Do lead with the single light-blue waving banner and place About directly after it.",
+      "Do use only the recorded five-color palette for repository-controlled banner and badge accents.",
+      "Do keep projects as unframed, one-column chapters with compact evidence badges.",
+      "Do retain one relevant emoji marker for each level-two chapter heading.",
+      "Do preserve useful text, links, and alternative text around hosted images."
+    ],
+    "donts": [
+      "Don't wrap About, projects, activity, or external links in custom cards.",
+      "Don't add custom shadows, raised surfaces, or decorative depth effects.",
+      "Don't override GitHub's body typography, standard headings, links, tables, or responsive chrome.",
+      "Don't invent navigation, buttons, inputs, motion rules, or breakpoints that the README does not own.",
+      "Don't turn the project sequence into a multi-column grid or replace the restrained palette with saturated accents."
+    ]
+  }
+}
