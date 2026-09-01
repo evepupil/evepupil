@@ -27,6 +27,10 @@ My work focuses on making AI development more structured, repeatable, and easier
 
 ## 📦 Selected Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### [NextDevTpl](https://github.com/evepupil/NextDevTpl)
 
 A composable, production-ready Next.js SaaS foundation that generates standalone applications around the modules, service adapters, and deployment target you choose.
@@ -37,7 +41,8 @@ A composable, production-ready Next.js SaaS foundation that generates standalone
 
 [Project website](https://nextdevtpl.chaosyn.com)
 
-<br>
+</td>
+<td width="50%">
 
 ### [CloudMind](https://github.com/evepupil/CloudMind)
 
@@ -47,7 +52,10 @@ An open-source, user-owned AI memory layer that runs in your Cloudflare account 
 [![Language](https://img.shields.io/github/languages/top/evepupil/CloudMind?style=flat-square&labelColor=17324D&color=72B9DE)](https://github.com/evepupil/CloudMind)
 [![Latest Release](https://img.shields.io/github/v/release/evepupil/CloudMind?style=flat-square&labelColor=17324D&color=72B9DE)](https://github.com/evepupil/CloudMind/releases)
 
-<br>
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
 ### [CCSM](https://github.com/evepupil/ccsm)
 
@@ -56,6 +64,10 @@ A Windows desktop app for managing local Claude Code and Codex sessions from one
 [![GitHub Stars](https://img.shields.io/github/stars/evepupil/ccsm?style=flat-square&logo=github&labelColor=17324D&color=72B9DE)](https://github.com/evepupil/ccsm)
 [![Language](https://img.shields.io/github/languages/top/evepupil/ccsm?style=flat-square&labelColor=17324D&color=72B9DE)](https://github.com/evepupil/ccsm)
 [![Latest Release](https://img.shields.io/github/v/release/evepupil/ccsm?style=flat-square&labelColor=17324D&color=72B9DE)](https://github.com/evepupil/ccsm/releases)
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Activity
 

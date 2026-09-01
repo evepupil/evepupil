@@ -31,8 +31,8 @@ The visual world is light, open, and restrained: airy blues provide identity, da
 **Key Characteristics:**
 
 - One full-width light-blue waving banner before the content.
-- GitHub-native reading surfaces with no custom cards or chrome.
-- A one-column sequence of clearly marked chapters and projects.
+- GitHub-native reading surfaces with one bounded project matrix and no custom chrome.
+- A two-column project matrix with a full-width final row for the third project.
 - Compact blue evidence badges and responsive media.
 - Generous separation without decorative containers.
 
@@ -83,25 +83,25 @@ The palette moves from near-white blue through clear sky tones, anchored by dark
 
 The profile follows a single reading column. The 854x280 hero SVG scales to the available GitHub content width, and the About chapter begins immediately below it without an intermediate card. Sections proceed in a linear story: identity, focus, tools, selected projects, evidence, and external destinations.
 
-Each selected project remains an unframed chapter with a linked title, one concise description, and a compact evidence row. External badges wrap naturally when the available width narrows. The GitHub activity graphic and AI-usage graphic scale down with the README content; the AI-usage image is requested at up to 700px wide. The footer closes the page with a shallow 100px wave.
+Selected projects sit inside one GitHub-native HTML table. NextDevTpl and CloudMind share the first row as equal 50% cells, while CCSM spans both columns in the second row. Each cell contains a linked title, one concise description, and a compact evidence row. External badges wrap naturally when the available width narrows. The GitHub activity graphic and AI-usage graphic scale down with the README content; the AI-usage image is requested at up to 700px wide. The footer closes the page with a shallow 100px wave.
 
-No repository-owned breakpoint system exists. Responsive behavior comes from fluid images, natural badge wrapping, the permanent one-column project layout, and GitHub's own page chrome.
+No repository-owned breakpoint system exists. Responsive behavior comes from fluid images, natural badge wrapping, source-order table content, and GitHub's own page chrome. GitHub may compress or horizontally scroll the project table on narrow screens; the repository does not add unsupported custom CSS to change that behavior.
 
 ### Named Rules
 
-**The Single-Column Rule.** Preserve one continuous reading path at every width; do not turn the project chapters into a grid.
+**The Project Matrix Rule.** Pair projects in equal 50% cells and let the final unpaired project span the complete row; preserve source reading order from left to right, then top to bottom.
 
 ## Elevation & Depth
 
-The system is flat. It uses no custom shadows, raised panels, or layered cards. Depth comes only from the ordered pale-blue fields inside the wave artwork and from GitHub's native content hierarchy.
+The system is flat. It uses no custom shadows or raised panels. Depth comes from the ordered pale-blue fields inside the wave artwork, GitHub's native content hierarchy, and the project table's platform-owned borders and alternating row surface.
 
 ### Named Rules
 
-**The Flat Evidence Rule.** Keep project descriptions, badges, and activity graphics on the page surface without decorative containers or custom shadows.
+**The Native Frame Rule.** Let GitHub supply the project matrix border and alternating row surface; do not add custom borders, backgrounds, or shadows.
 
 ## Shapes
 
-The defining silhouette is the soft wave used by the full-width header and shallow footer. Compact external badges use their hosted flat-square style. Project chapters stay unframed, so their shape comes from heading rhythm and whitespace instead of boxes.
+The defining silhouette is the soft wave used by the full-width header and shallow footer. Compact external badges use their hosted flat-square style. The project matrix uses GitHub's square native table cells and one platform-owned dividing line between columns and rows.
 
 Emoji chapter markers are an intentional exception to an otherwise restrained form language. They remain because the user-pinned reference uses them to make a long profile easier to scan.
 
@@ -122,11 +122,11 @@ Emoji chapter markers are an intentional exception to an otherwise restrained fo
 - **Structure:** A standard level-two Markdown heading led by one relevant emoji marker.
 - **Role:** Separate the profile into scannable chapters without adding navigation or custom containers.
 
-### Project Chapter
+### Project Matrix
 
-- **Structure:** A linked level-three title, one descriptive paragraph, compact evidence badges, and an optional direct website link.
-- **Layout:** Unframed and permanently one-column.
-- **Separation:** GitHub heading rhythm and explicit vertical space distinguish adjacent projects.
+- **Structure:** One HTML table containing linked level-three titles, descriptive paragraphs, compact evidence badges, and an optional direct website link.
+- **Layout:** Two equal cells in the first row; one cell spanning both columns in the second row.
+- **Separation:** GitHub's native table border and alternating row surface group each project without repository-owned CSS.
 
 ### Evidence Media
 
@@ -145,14 +145,14 @@ Emoji chapter markers are an intentional exception to an otherwise restrained fo
 
 - **Do** lead with the single light-blue waving banner and place About directly after it.
 - **Do** use only the recorded five-color palette for repository-controlled banner and badge accents.
-- **Do** keep projects as unframed, one-column chapters with compact evidence badges.
+- **Do** keep the selected projects in the documented two-column GitHub table with compact evidence badges.
 - **Do** retain one relevant emoji marker for each level-two chapter heading.
 - **Do** preserve useful text, links, and alternative text around hosted images.
 
 ### Don't:
 
-- **Don't** wrap About, projects, activity, or external links in custom cards.
+- **Don't** wrap About, activity, or external links in custom cards, and don't replace the project table with custom card styling.
 - **Don't** add custom shadows, raised surfaces, or decorative depth effects.
 - **Don't** override GitHub's body typography, standard headings, links, tables, or responsive chrome.
 - **Don't** invent navigation, buttons, inputs, motion rules, or breakpoints that the README does not own.
-- **Don't** turn the project sequence into a multi-column grid or replace the restrained palette with saturated accents.
+- **Don't** add unsupported responsive CSS to the project matrix or replace the restrained palette with saturated accents.
