@@ -8,14 +8,13 @@ web
 
 ## Users
 
-Developers interested in AI coding tools, self-hosted infrastructure, and open-source software, as well as potential collaborators.
+Developers exploring AI coding agents, cross-agent memory layers, developer tooling, and self-hosted SaaS foundations.
 
 ## Product Purpose
 
-Powers the public GitHub profile for `evepupil` (`yeton`). Introduces the developer with a memorable, calm pixel-art coding side-scroller, upfront personal links, a clean `2x2` flagship project table, and a single live `TokenBoard` telemetry card.
+Powers the public GitHub profile for `evepupil` (`yeton`), sharing a unified Swiss-Bauhaus pixel visual language with `https://smem.chaosyn.com` while staying calm and legible in both GitHub Light and Dark themes.
 
 ## Capabilities and Constraints
 
-- Rendered from GitHub-flavored Markdown, native HTML `<table>` / `<picture>`, and repository-hosted animated SVGs (`assets/fox-stage-light.svg`, `assets/fox-stage-dark.svg`).
-- Zero decorative emojis, zero ALL-CAPS corporate buzzwords, and minimal third-party image dependencies (only `TokenBoard`).
-- Selected projects in the `2x2` grid: `NextDevTpl`, `CloudMind`, `SMem`, and `DeverDesk`, with `TokenBoard`, `CCSM`, and `DocSeek` linked below.
+- Repository-hosted Light/Dark SVG suite (`assets/`) rendered with `0px` sharp geometry, 9-row bold pixel display glyphs, orthogonal pixel weaves, and a gently blinking pixel fox portrait.
+- Flush `2x2` clickable poster cards for `NextDevTpl`, `CloudMind`, `SMem`, and `DeverDesk`, accompanied by direct product website links (`nextdevtpl.chaosyn.com`, `smem.chaosyn.com`, `deverdesk.com`) and a single `TokenBoard` telemetry card.

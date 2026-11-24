@@ -1,37 +1,37 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-11-24T03:46:00Z",
+  "generatedAt": "2026-11-24T07:38:00Z",
   "title": "Design System: evepupil GitHub Profile",
   "extensions": {
     "colorMeta": {
-      "meadow-cream": { "role": "neutral", "displayName": "Meadow Cream" },
-      "night-slate": { "role": "neutral", "displayName": "Night Slate" },
-      "fox-cream": { "role": "primary", "displayName": "Fox Cream" },
-      "fox-sakura": { "role": "secondary", "displayName": "Sakura Tips" },
-      "matcha-sage": { "role": "primary", "displayName": "Matcha Sage" },
-      "cocoa-outline": { "role": "neutral", "displayName": "Cocoa Outline" }
+      "paper": { "role": "neutral", "displayName": "Paper" },
+      "ink": { "role": "neutral", "displayName": "Ink" },
+      "sodium-orchid": { "role": "primary", "displayName": "Sodium Orchid" },
+      "cobalt": { "role": "primary", "displayName": "Cobalt" },
+      "emerald": { "role": "secondary", "displayName": "Emerald" },
+      "signal-amber": { "role": "secondary", "displayName": "Signal Amber" }
     },
     "typographyMeta": {
-      "body": { "displayName": "Native Body", "purpose": "Natural sentence-case GitHub Markdown." }
+      "display": { "displayName": "Project Title", "purpose": "Bold tight geometric sans on poster cards." },
+      "mono": { "displayName": "Parenthetical Metadata", "purpose": "Parenthetical tags, specs, and command lines." }
     }
   },
   "components": [],
   "narrative": {
-    "northStar": "Calm Pixel Odyssey & Quiet Typography",
-    "overview": "A softly colored, richly detailed pixel-art side-scroller hero featuring evepupil's fox-eared character traversing a computer-science and AI world, paired with calm, emoji-free native Markdown and a single TokenBoard card.",
+    "northStar": "Swiss-Bauhaus Pixel Poster",
+    "overview": "Aligned directly with smem.chaosyn.com: sharp 0px structural rules, monumental 9-row pixel display typography, orthogonal pixel weaves, a framed pixel fox portrait with calm blink animation, and flush 2x2 Bauhaus project poster cards.",
     "keyCharacteristics": [
-      "3x integer-scaled Light and Dark pixel-art side-scroller SVGs in assets/.",
-      "Zero emojis and natural sentence-case prose.",
-      "Symmetric 2x2 flagship project table (NextDevTpl, CloudMind, SMem, DeverDesk) with native code tags.",
-      "Single native-width TokenBoard card at the bottom."
+      "9-row bold pixel display wordmark EVEPUPIL and 4-column pixel metric strip.",
+      "Framed 28x28 graphic pixel fox portrait over an Orchid plus-weave field.",
+      "Flush 2x2 clickable SVG poster cards for NextDevTpl, CloudMind, SMem, and DeverDesk.",
+      "Calm, non-strobing micro-animations with prefers-reduced-motion support."
     ],
     "rules": [],
     "dos": [
-      "Do preserve crispEdges and XML validity on pixel-art SVGs.",
-      "Do keep headings plain sentence case without emojis."
+      "Do maintain 0px sharp corners, 1px structural rules, and Light/Dark SVG parity."
     ],
     "donts": [
-      "Don't add neon colors, ALL-CAPS marketing kickers, or badge clutter."
+      "Don't add rapid flashing animations, rounded pill clutter, or decorative emojis."
     ]
   }
 }

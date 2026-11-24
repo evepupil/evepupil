@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="30" viewBox="0 0 200 30" role="img" aria-label="blog blog.chaosyn.com">
+  <rect x="0.5" y="0.5" width="199" height="29" fill="#FFFFFF" stroke="#0A0A0A" stroke-width="1"/>
+  <text x="11" y="19" font-family='"JetBrains Mono", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="11" fill="#71717A">(blog) <tspan font-family='"Inter Tight", -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", "Noto Sans CJK SC", "Helvetica Neue", Arial, sans-serif' font-size="12" font-weight="600" fill="#0A0A0A">blog.chaosyn.com</tspan></text>
+  <text x="190" y="19" text-anchor="end" font-family='"JetBrains Mono", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="11" fill="#71717A">&#8599;</text>
+</svg>

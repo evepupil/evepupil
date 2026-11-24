@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="417" height="194" viewBox="0 0 417 194" role="img" aria-label="SMem — Local Agent Memory">
+  <title>SMem — Local Agent Memory</title>
+  <rect x="0.5" y="0.5" width="416" height="193" fill="#101115"/>
+  <g shape-rendering="crispEdges"><rect x="1" y="1" width="415" height="54" fill="#D88AD4"/><path fill="#A855A3" d="M7 1h6v6h-6zM43 1h6v6h-6zM79 1h6v6h-6zM115 1h6v6h-6zM151 1h6v6h-6zM187 1h6v6h-6zM223 1h6v6h-6zM259 1h6v6h-6zM295 1h6v6h-6zM331 1h6v6h-6zM367 1h6v6h-6zM403 1h6v6h-6zM1 7h18v6h-18zM37 7h18v6h-18zM73 7h18v6h-18zM109 7h18v6h-18zM145 7h18v6h-18zM181 7h18v6h-18zM217 7h18v6h-18zM253 7h18v6h-18zM289 7h18v6h-18zM325 7h18v6h-18zM361 7h18v6h-18zM397 7h18v6h-18zM7 13h6v6h-6zM43 13h6v6h-6zM79 13h6v6h-6zM115 13h6v6h-6zM151 13h6v6h-6zM187 13h6v6h-6zM223 13h6v6h-6zM259 13h6v6h-6zM295 13h6v6h-6zM331 13h6v6h-6zM367 13h6v6h-6zM403 13h6v6h-6zM25 19h6v6h-6zM61 19h6v6h-6zM97 19h6v6h-6zM133 19h6v6h-6zM169 19h6v6h-6zM205 19h6v6h-6zM241 19h6v6h-6zM277 19h6v6h-6zM313 19h6v6h-6zM349 19h6v6h-6zM385 19h6v6h-6zM19 25h18v6h-18zM55 25h18v6h-18zM91 25h18v6h-18zM127 25h18v6h-18zM163 25h18v6h-18zM199 25h18v6h-18zM235 25h18v6h-18zM271 25h18v6h-18zM307 25h18v6h-18zM343 25h18v6h-18zM379 25h18v6h-18zM415 25h1v6h-1zM25 31h6v6h-6zM61 31h6v6h-6zM97 31h6v6h-6zM133 31h6v6h-6zM169 31h6v6h-6zM205 31h6v6h-6zM241 31h6v6h-6zM277 31h6v6h-6zM313 31h6v6h-6zM349 31h6v6h-6zM385 31h6v6h-6zM7 37h6v6h-6zM43 37h6v6h-6zM79 37h6v6h-6zM115 37h6v6h-6zM151 37h6v6h-6zM187 37h6v6h-6zM223 37h6v6h-6zM259 37h6v6h-6zM295 37h6v6h-6zM331 37h6v6h-6zM367 37h6v6h-6zM403 37h6v6h-6zM1 43h18v6h-18zM37 43h18v6h-18zM73 43h18v6h-18zM109 43h18v6h-18zM145 43h18v6h-18zM181 43h18v6h-18zM217 43h18v6h-18zM253 43h18v6h-18zM289 43h18v6h-18zM325 43h18v6h-18zM361 43h18v6h-18zM397 43h18v6h-18zM7 49h6v6h-6zM43 49h6v6h-6zM79 49h6v6h-6zM115 49h6v6h-6zM151 49h6v6h-6zM187 49h6v6h-6zM223 49h6v6h-6zM259 49h6v6h-6zM295 49h6v6h-6zM331 49h6v6h-6zM367 49h6v6h-6zM403 49h6v6h-6z"/></g>
+  <line x1="0.5" y1="54.5" x2="416.5" y2="54.5" stroke="#2E313D" stroke-width="1"/>
+  <line x1="18" y1="154.5" x2="399" y2="154.5" stroke="#232631" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="416" height="193" fill="none" stroke="#2E313D" stroke-width="1"/>
+
+  <!-- Top Left Index Pill on Weave Band -->
+  <rect x="16" y="16" width="180" height="22" fill="#0A0A0A"/>
+  <text x="24" y="30.5" font-family='"JetBrains Mono", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="10.5" font-weight="600" fill="#FFFFFF">(03) Local Agent Memory</text>
+
+  <!-- Top Right Framed 16x16 Bauhaus Pixel Emblem -->
+  <rect x="361" y="5" width="44" height="44" fill="#0A0A0A"/>
+  <g shape-rendering="crispEdges"><path fill="#0A0A0A" d="M368.0 9.5h12.5v2.5h-12.5zM385.5 9.5h12.5v2.5h-12.5zM368.0 12.0h2.5v2.5h-2.5zM378.0 12.0h2.5v2.5h-2.5zM385.5 12.0h2.5v2.5h-2.5zM395.5 12.0h2.5v2.5h-2.5zM368.0 14.5h2.5v2.5h-2.5zM378.0 14.5h10.0v2.5h-10.0zM395.5 14.5h2.5v2.5h-2.5zM368.0 17.0h2.5v2.5h-2.5zM395.5 17.0h2.5v2.5h-2.5zM370.5 19.5h7.5v2.5h-7.5zM388.0 19.5h7.5v2.5h-7.5zM375.5 22.0h2.5v2.5h-2.5zM388.0 22.0h2.5v2.5h-2.5zM368.0 24.5h10.0v2.5h-10.0zM388.0 24.5h10.0v2.5h-10.0zM368.0 27.0h2.5v2.5h-2.5zM395.5 27.0h2.5v2.5h-2.5zM368.0 29.5h2.5v2.5h-2.5zM375.5 29.5h2.5v2.5h-2.5zM388.0 29.5h2.5v2.5h-2.5zM395.5 29.5h2.5v2.5h-2.5zM368.0 32.0h10.0v2.5h-10.0zM380.5 32.0h5.0v2.5h-5.0zM388.0 32.0h10.0v2.5h-10.0zM378.0 34.5h2.5v2.5h-2.5zM385.5 34.5h2.5v2.5h-2.5zM375.5 37.0h5.0v2.5h-5.0zM385.5 37.0h5.0v2.5h-5.0zM375.5 39.5h15.0v2.5h-15.0z"/><path fill="#FFFFFF" d="M370.5 12.0h7.5v2.5h-7.5zM370.5 14.5h7.5v2.5h-7.5zM370.5 17.0h25.0v2.5h-25.0zM378.0 19.5h10.0v2.5h-10.0zM378.0 22.0h2.5v2.5h-2.5zM385.5 22.0h2.5v2.5h-2.5zM378.0 24.5h2.5v2.5h-2.5zM385.5 24.5h2.5v2.5h-2.5zM375.5 27.0h15.0v2.5h-15.0zM378.0 29.5h10.0v2.5h-10.0zM380.5 34.5h5.0v2.5h-5.0z"/><path fill="#F3ACF0" d="M388.0 12.0h7.5v2.5h-7.5zM388.0 14.5h7.5v2.5h-7.5zM370.5 27.0h5.0v2.5h-5.0zM390.5 27.0h5.0v2.5h-5.0zM370.5 29.5h5.0v2.5h-5.0zM390.5 29.5h5.0v2.5h-5.0z"/><path fill="#22C98A" d="M380.5 22.0h5.0v2.5h-5.0zM380.5 24.5h5.0v2.5h-5.0zM380.5 37.0h5.0v2.5h-5.0z"/></g>
+
+  <!-- Project Title & Crisp Two-Line Copy -->
+  <text x="18" y="84" font-family='"Inter Tight", -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", "Noto Sans CJK SC", "Helvetica Neue", Arial, sans-serif' font-size="20" font-weight="800" letter-spacing="-0.4" fill="#F4F4F6">SMem</text>
+  <text x="399" y="82" text-anchor="end" font-family='"JetBrains Mono", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="11" font-weight="600" fill="#B4B6C2">smem.chaosyn.com &#8599;</text>
+
+  <text x="18" y="110" font-family='"Inter Tight", -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", "Noto Sans CJK SC", "Helvetica Neue", Arial, sans-serif' font-size="12.5" fill="#B4B6C2">Zero-dependency Go binary unifying Claude Code, Codex CLI,</text>
+  <text x="18" y="129" font-family='"Inter Tight", -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", "Noto Sans CJK SC", "Helvetica Neue", Arial, sans-serif' font-size="12.5" fill="#B4B6C2">Cursor &amp; Gemini CLI around one pure-Markdown memory dir.</text>
+
+  <!-- Bottom Spec Strip -->
+  <rect x="18" y="169" width="6" height="6" fill="#D88AD4" stroke="#0A0A0A" stroke-width="0.6" shape-rendering="crispEdges"/>
+  <text x="31" y="176" font-family='"JetBrains Mono", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="10.5" fill="#7C8091">Go 1.25 Stdlib · Zero DB · MCP + Hooks · v2.0</text>
+  <text x="399" y="176" text-anchor="end" font-family='"JetBrains Mono", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="12" font-weight="700" fill="#F4F4F6">&#8594;</text>
+</svg>

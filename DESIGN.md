@@ -1,30 +1,35 @@
 ---
 name: evepupil GitHub Profile
-description: Calm painterly pixel-art side-scroller hero paired with quiet, emoji-free native GitHub typography and a single TokenBoard card.
+description: Swiss-Bauhaus pixel poster system aligned with smem.chaosyn.com — monumental 9-row pixel display typography, orthogonal pixel weaves, framed pixel fox portrait, and 2x2 poster cards across Light and Dark modes.
 colors:
-  meadow-cream: "#FBF7EC"
-  night-slate: "#131722"
-  fox-cream: "#FFF3C6"
-  fox-sakura: "#F3ABB8"
-  matcha-sage: "#7E9C3B"
-  cocoa-outline: "#432622"
+  paper: "#FAF9F5"
+  ink: "#0A0A0A"
+  sodium-orchid: "#F3ACF0"
+  cobalt: "#2370E8"
+  emerald: "#2BA676"
+  signal-amber: "#F5B700"
 typography:
-  body:
-    fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif'
-    fontSize: "16px"
-    fontWeight: 400
+  display:
+    fontFamily: '"Inter Tight", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif'
+    fontSize: "20px"
+    fontWeight: 800
+  mono:
+    fontFamily: '"JetBrains Mono", "SFMono-Regular", Consolas, monospace'
+    fontSize: "11px"
+    fontWeight: 600
 ---
 
 # Design System: evepupil GitHub Profile
 
 ## Overview
 
-**Creative North Star: "Calm Pixel Odyssey & Quiet Typography"**
+**Creative North Star: "Swiss-Bauhaus Pixel Poster"**
 
-The profile pairs one richly detailed, softly colored pixel-art side-scroller SVG (`assets/fox-stage-light.svg` and `assets/fox-stage-dark.svg`) with restrained, emoji-free, sentence-case Markdown below. All expressive craft lives inside the looping 14-second pixel diorama featuring `evepupil`'s fox-eared character, while the reading surface underneath stays quiet, human, and uncluttered.
+Aligned directly with `evepupil`'s product design language on `smem.chaosyn.com`, the profile pairs crisp `0px` architectural rules (`1px solid`), monumental 9-row geometric pixel display typography (`EVEPUPIL`), parenthetical metadata `(yeton · independent developer)`, and deterministic orthogonal pixel weaves (`plus`, `cross`, `tartan`, `basket`) with calm, non-strobing micro-animations across Light and Dark modes.
 
-## Key Characteristics
+## Key Components
 
-- **3x Integer Pixel Stage (`282x96` -> `846x288`)**: Warm sunlit morning in Light Mode and quiet starlit indigo twilight in Dark Mode, using warm cocoa outlines (`#432622`) rather than harsh black or neon hues.
-- **Coding & AI World Details**: `stdin` and `mcp` warp pipes, retro CRT desk with steaming coffee, git-branch sakura tree, bouncing `[>_]` prompt block popping golden token coins, waddling software `BUG` beetle, `[TS]` `[Go]` `[RS]` mechanical keycap stepping stones, Docker container whale boat, `CloudMind` cloud, blinking server rack with flowering cactus, and a cozy `功亦唐捐` studio cottage.
-- **Zero-Emoji, Natural Copy**: Plain sentence-case headings (`Projects`, `Token Usage`), conversational first-person bio, inline site links, a clean `2x2` table (`NextDevTpl`, `CloudMind`, `SMem`, `DeverDesk`) with native `<code>` tags, and a single native-width (`520px`) `TokenBoard` card at the bottom.
+- **Split Poster Hero (`assets/hero-*.svg`)**: Left field carries the 9-row pixel wordmark `EVEPUPIL`, role stack, and `$` command bar with a calm blinking block cursor; right field sets a framed `28x28` graphic pixel portrait of `evepupil`'s fox avatar (with gentle 5.2s eye blink) over an Orchid `+` pixel weave; bottom strip renders 4 pixel metric counters (`04`, `66`, `91B`, `MCP`).
+- **Sharp-Cornered Action Buttons (`assets/btn-*.svg`)**: `0px` radius primary and bordered buttons for `chaosyn.com`, `blog.chaosyn.com`, `smem.chaosyn.com`, and `@evepupil`.
+- **Flush 2x2 Bauhaus Pixel Project Cards (`assets/card-*.svg`)**: Four clickable `49%`-width SVG poster cards (`NextDevTpl`, `CloudMind`, `SMem`, `DeverDesk`), each topped with a distinct orthogonal pixel weave header band and a `16x16` geometric pixel emblem, avoiding GitHub's default table borders.
+- **Single Telemetry Card (`TokenBoard`)**: Framed under a matching `(telemetry)` rule at native `520px` resolution.
