@@ -8,44 +8,14 @@ web
 
 ## Users
 
-The primary visitors are developers interested in AI-assisted software engineering, reusable developer tools, and open-source projects. Potential users and collaborators are secondary visitors.
+Developers interested in AI coding tools, self-hosted infrastructure, and open-source software, as well as potential collaborators.
 
 ## Product Purpose
 
-This repository powers the public GitHub profile for `evepupil`. It should let a first-time visitor quickly understand the developer's focus, inspect representative work, and continue to a project or external site.
-
-## Positioning
-
-The profile presents an independent developer focused on making AI-assisted development more structured, repeatable, and verifiable through practical tools and reusable foundations.
+Powers the public GitHub profile for `evepupil` (`yeton`). Introduces the developer with a memorable, calm pixel-art coding side-scroller, upfront personal links, a clean `2x2` flagship project table, and a single live `TokenBoard` telemetry card.
 
 ## Capabilities and Constraints
 
-- The profile is rendered from GitHub-flavored Markdown and GitHub-supported HTML.
-- GitHub controls body typography and responsive behavior.
-- The profile must remain useful when nonessential third-party images fail to load.
-- Selected projects are limited to NextDevTpl, CloudMind, and CCSM.
-- Public claims must match current repositories and public project evidence.
-
-## Brand Commitments
-
-- Public name: `evepupil`.
-- Banner subtitle: `Independent Developer | AI Systems & Developer Tools`.
-- The profile remains English-primary.
-- The visual reference is the clear hierarchy and waving hero banner used by `epicsagas/epicsagas`, adapted to original content.
-- The banner and small accents use a light-blue palette with dark blue-gray text.
-- The voice is concise, practical, and evidence-led.
-
-## Evidence on Hand
-
-- Current public profile copy in `README.md`.
-- Public repositories for NextDevTpl, CloudMind, and CCSM.
-- GitHub activity summary and public TokenBoard usage graphic.
-- External links to the personal website, blog, and Zhihu profile.
-
-## Product Principles
-
-- Lead with a memorable identity and a clear current focus.
-- Show a small number of representative projects with factual descriptions.
-- Prefer useful evidence over decorative statistics.
-- Keep the page concise enough to scan in one visit.
-- Limit fragile third-party image dependencies.
+- Rendered from GitHub-flavored Markdown, native HTML `<table>` / `<picture>`, and repository-hosted animated SVGs (`assets/fox-stage-light.svg`, `assets/fox-stage-dark.svg`).
+- Zero decorative emojis, zero ALL-CAPS corporate buzzwords, and minimal third-party image dependencies (only `TokenBoard`).
+- Selected projects in the `2x2` grid: `NextDevTpl`, `CloudMind`, `SMem`, and `DeverDesk`, with `TokenBoard`, `CCSM`, and `DocSeek` linked below.
